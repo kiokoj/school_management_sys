@@ -1,0 +1,2 @@
+print("Students")
+print("Teachers")
