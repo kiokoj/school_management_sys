@@ -1,2 +1,1 @@
 print("Students")
-print("Teachers")
